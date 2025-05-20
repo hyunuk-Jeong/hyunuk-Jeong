@@ -1,16 +1,22 @@
-## Hi there 👋
-![header](https://capsule-render.vercel.app/api?type=Waving&section=header&height=300&text=Hello&fontAlignX=50&fontAlignY=45&color=gradient&fontSize=100&fontColor=ffffff&desc=It's%20Hyunuk%20GitHub)
-<!--
-**hyunuk-Jeong/hyunuk-Jeong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=280&text=Hyunuk's%20GitHub&fontSize=60&fontAlignY=40&desc=Welcome%20to%20my%20space!&descAlignY=60&fontColor=ffffff)
 
-Here are some ideas to get you started:
+## 👨‍💻 About Me
+- 💼 Android Developer / Kotlin 기반 프로젝트 주력
+- 🌱 최근 관심: Jetpack Compose, Clean Architecture, DI (Hilt), 
+- 🧠 공부 중: Compose, React, Firebase, MVVM+MVI 설계
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+<p>
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jetpack Compose-4285F4?style=flat&logo=android&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Hilt-34A853?style=flat&logo=google&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Room-6DB33F?style=flat&logo=sqlite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
+</p>
+
+
+## 📌 Pin Repositories
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hyunuk-Jeong&repo=flos-client&theme=gruvbox)](https://github.com/hyunuk-Jeong/flos-client)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hyunuk-Jeong&repo=portfolio-web&theme=gruvbox)](https://github.com/hyunuk-Jeong/portfolio-web)
+
