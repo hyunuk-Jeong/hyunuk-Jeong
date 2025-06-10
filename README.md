@@ -3,7 +3,7 @@
 ## 👨‍💻 About Me
 - 💼 Android Developer / Kotlin 기반 프로젝트 주력
 - 🌱 최근 관심: Jetpack Compose, Clean Architecture, DI (Hilt), 
-- 🧠 공부 중: Compose, React, Firebase, MVVM+MVI 설계
+- 🧠 공부 중: ROS(Robot Operating System), C++, Python
 
 ## 🛠️ Tech Stack
 <p>
