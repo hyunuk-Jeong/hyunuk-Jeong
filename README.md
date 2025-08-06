@@ -1,9 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=280&text=Hyunuk's%20GitHub&fontSize=60&fontAlignY=40&desc=Welcome%20to%20my%20space!&descAlignY=60&fontColor=ffffff)
 
 ## 👨‍💻 About Me
-- 💼 Android Developer / Kotlin 기반 프로젝트 주력
-- 🌱 최근 관심: Jetpack Compose, Clean Architecture, DI (Hilt), 
-- 🧠 공부 중: ROS(Robot Operating System), C++, Python
+- 💼 Android App, Software Developer / Kotlin, C# 기반 프로젝트 주력
+- 🌱 최근 관심: Jetpack Compose, Clean Architecture, DI (Hilt), Modbus, Opc 
+- 🧠 공부 중: ROS(Robot Operating System), C#, Python
 
 ## 🛠️ Tech Stack
 <p>
